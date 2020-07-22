@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [WS2812B_Ring_Light.PrjPcb]
+   Generated File[WS2812B_Ring_Light-RoundHoles.TXT]
+   Generated File[WS2812B_Ring_Light-SlotHoles.TXT]
+   Generated File[WS2812B_Ring_Light.LDP]
+   Generated File[WS2812B_Ring_Light.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:41:09 PM On 2020-07-22
